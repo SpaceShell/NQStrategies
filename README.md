@@ -1,8 +1,7 @@
 # NQStrategies
 A collection of various NQ trading strategies for NinjaTrader that seamlessly automate contracts and can be imported to the NinjaTrader platform.
 
-## Reference
-### NQ Strategy
+## NQ Strategy
 The NQ Strategy is a strategy that automates 2 contract buys/sells after 10 points in profit from when the previous contract enters.
 
 ### How It Works
