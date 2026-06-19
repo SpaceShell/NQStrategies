@@ -37,7 +37,7 @@ Enters after 10 points in profit from the 1st contract.
 
 **3rd Contract:**
 Enters after 10 points in profit from the 2nd contract.
-- At the same time that the contract enters, the stop loss of the 2nd Contract moves 0.5 pts in profit fromwhen it entered
+- At the same time that the contract enters, the stop loss of the 2nd Contract moves 0.5 pts in profit from when it entered
 - Stop Loss: 5 pts
 - Profit Target: 15 pts
 - After 10 points in profit, the stop loss of the 3rd Contract moves 0.5 pts in profit from when it entered
