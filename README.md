@@ -72,3 +72,17 @@ Enters after 10 pts in profit from the 2nd entry.
 Strategy restarts after 3rd entry closes.
 
 ## NQ 2-Leg Strategy
+The NQ 2-Leg Strategy is a variation of the MNQ Strategy with 2 entries instead of 3 entries, a 5 pt change for the 2nd Entry, and a breakeven of 1 pt in profit for the 2nd Entry.
+
+### How It Works
+**1st Entry (5 Contracts):**
+Entered by user. Initiates the strategy.
+- All following entries will be a buy if the first entry is a buy or a sell if the first entry is a sell
+
+**2nd Entry (5 Contracts):**
+Enters after 5 pts in profit from the 1st entry.
+- Stop Loss: 14 pts
+- Profit Target: 30 pts
+- Breakeven: After 10 pts in profit, the stop loss of the 2nd Entry moves 1 pts in profit from when it entered
+
+Strategy restarts after 2nd entry closes.
